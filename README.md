@@ -9,7 +9,7 @@
   - [ Breast cancer diagnosis (GradientBoostedAlgorithms) ](https://github.com/EBeh0097/Breast-Cancer-Daignosis) </b></i>
   - [ NeuralNetworkImplementation(image(numbers) classifications) ](https://github.com/EBeh0097/Number-Classification/tree/main) </b></i>
 - <b> Natural Language Processing (STARs Technotes) </b>
-  - [ IR&QA-StarsTechnotes ]() </b></i>
+  - [ IR&QA-StarsTechnotes ](https://github.com/EBeh0097/Stars-QA-LLM) </b></i>
   - [ Fine-tuning Bert for text classification ]() </b></i>
   - [ Fine-tune_BERT_for QA ]() </b></i>
   - [ Fine-tuning Bert for text classification ]() </b></i>
