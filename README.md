@@ -15,8 +15,9 @@
   - [ Fine-tuning Bert for text classification ]() </b></i>
   - [ Named_Entity_Recognition ]() </b></i>
   - [ Relation Extraction Example ]() </b></i>
+- <b> Agentic AI (healthcare) </b>
+  - [ AI-Agents-for-Medical-Diagnostics ](https://github.com/EBeh0097/Agentic-AI-healthcare/tree/main) </b></i>
 
-  
 
 
 <!--
