@@ -11,8 +11,7 @@
 - <b> Natural Language Processing (STARs Technotes) </b>
   - [ IR&QA-StarsTechnotes ](https://github.com/EBeh0097/Stars-QA-LLM) </b></i>
   - [ Fine-tuning Bert for text classification ](https://github.com/EBeh0097/Fine-tuning-bert-for-text-classifaction) </b></i>
-  - [ Fine-tune_BERT_for QA ]() </b></i>
-  - [ Fine-tuning Bert for text classification ]() </b></i>
+  - [ Classification with NLTK ]() </b></i>
   - [ Named_Entity_Recognition ]() </b></i>
   - [ Relation Extraction Example ]() </b></i>
 - <b> Agentic AI (healthcare) </b>
