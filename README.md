@@ -13,7 +13,7 @@
   - [ Fine-tuning Bert for text classification ](https://github.com/EBeh0097/Fine-tuning-bert-for-text-classifaction) </b></i>
   - [ Classification with NLTK ](https://github.com/EBeh0097/NLTK-classification) </b></i>
   - [ Named_Entity_Recognition ](https://github.com/EBeh0097/NER) </b></i>
-  - [ Relation Extraction Example ]() </b></i>
+  - [ Relation Extraction Example ](https://github.com/EBeh0097/Relation-Extraction) </b></i>
 - <b> Agentic AI (healthcare) </b>
   - [ AI-Agents-for-Medical-Diagnostics ](https://github.com/EBeh0097/Agentic-AI-healthcare/tree/main) </b></i>
 
