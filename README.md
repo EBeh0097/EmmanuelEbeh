@@ -6,7 +6,7 @@
   
 - <b> Data Mining (Xgboost, Random forest, MLP(tensorFlow)) </b>
   - [ Breast cancer diagnosis (GradientBoostedAlgorithms) ](https://github.com/EBeh0097/Breast-Cancer-Daignosis) </b></i>
-  - [ Diabetes risk predictions ](https://github.com/EBeh0097/Data-Mining/tree/main) </b></i>
+  - [ Diabetes risk predictions(MLP(tensorFlow)) ](https://github.com/EBeh0097/Data-Mining/tree/main) </b></i>
   - [ NeuralNetworkImplementation(image(numbers) classifications) ](https://github.com/EBeh0097/Number-Classification/tree/main) </b></i>
 - <b> Natural Language Processing </b>
   - [ IR&QA-StarsTechnotes ](https://github.com/EBeh0097/Stars-QA-LLM) </b></i>
