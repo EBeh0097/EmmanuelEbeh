@@ -15,7 +15,7 @@
   - [ Named_Entity_Recognition ](https://github.com/EBeh0097/NER) </b></i>
   - [ Relation Extraction Example ](https://github.com/EBeh0097/Relation-Extraction) </b></i>
 - <b> Agentic AI (healthcare) </b>
-  - [ AI-Agents-for-Medical-Diagnostics ](https://github.com/EBeh0097/Agentic-AI-healthcare/tree/main) </b></i>
+  - [ AI-Agents-for-Medical-Appeals web scraping ](https://github.com/EBeh0097/Appeal-Search/tree/main) </b></i>
 
 
 
