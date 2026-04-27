@@ -5,6 +5,7 @@
 
   
 - <b> Data Mining (Xgboost, Random forest, MLP(tensorFlow)) </b>
+  - [ Automated-Lung-Cancer-Detection-from-CT-Images (CNN based model) ](https://github.com/EBeh0097/Automated-Lung-Cancer-Detection-from-CT-Images/blob/main/README.md) </b></i>
   - [ Breast cancer diagnosis (GradientBoostedAlgorithms) ](https://github.com/EBeh0097/Breast-Cancer-Daignosis) </b></i>
   - [ Diabetes risk predictions(MLP(tensorFlow)) ](https://github.com/EBeh0097/Data-Mining/tree/main) </b></i>
   - [ NeuralNetworkImplementation(image(numbers) classifications) ](https://github.com/EBeh0097/Number-Classification/tree/main) </b></i>
