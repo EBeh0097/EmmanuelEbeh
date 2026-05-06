@@ -17,6 +17,11 @@
   - [ Relation Extraction Example ](https://github.com/EBeh0097/Relation-Extraction) </b></i>
 - <b> Agentic AI (healthcare) </b>
   - [ AI-Agents-Forecasting-tool ](https://github.com/EBeh0097/forecasting-tool/blob/main/README.md) </b></i>
+  - [ AI-video-transcription ](https://github.com/EBeh0097/AI-video-transcription) </b></i>
+  - [ AI-Agents-RAG](https://github.com/EBeh0097/AI-Agent_RAG) </b></i>
+  - [ LLM-fineTuning_Sqaud-Lora](https://github.com/EBeh0097/llm-finetuning-squad-lora) </b></i>
+  - [multi-agent-autogen-assistant-researcher ](https://github.com/EBeh0097/multi-agent-autogen-assistant-researcher) </b></i>
+    
 
 
 
